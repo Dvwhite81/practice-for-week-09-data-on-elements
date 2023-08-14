@@ -7,3 +7,38 @@ li {
 }
 
 /* Your code here */
+li[data-type="drinks"] {
+    background-color: aquamarine;
+}
+
+li[data-type="bakery"] {
+    background-color: blueviolet;
+}
+
+li[data-type="canned"] {
+    background-color: cornflowerblue;
+}
+
+li[data-type="dairy"] {
+    background-color: darkolivegreen;
+}
+
+li[data-type="frozen"] {
+    background-color: firebrick
+}
+
+li[data-type="meats"] {
+    background-color: greenyellow;
+}
+
+li[data-type="produce"] {
+    background-color: hotpink;
+}
+
+li[data-type="toiletries"] {
+    background-color: khaki;
+}
+
+li[data-type="other"] {
+    background-color: magenta;
+}
